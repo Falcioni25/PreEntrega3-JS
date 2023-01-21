@@ -1,0 +1,13 @@
+
+[
+    { "id": 0, "nombre": "Silla", "color": "Cedro", "precio": 15000, "imgUrl": "img/silla.png" },
+    { "id": 1, "nombre": "Mesa", "color": "Caoba", "precio": 150000, "imgUrl": "img/mesa.png" },
+    { "id": 2, "nombre": "Sofá", "color": "Rojo", "precio": 55000, "imgUrl": "img/sofa.png" },
+    { "id": 3, "nombre": "Chifonnier", "color": "Caoba", "precio": 55000, "imgUrl": "img/chifonier.png" },
+    { "id": 4, "nombre": "Velador", "color": "Blanco", "precio": 10000, "imgUrl": "img/velador.png" },
+    { "id": 5, "nombre": "Cama", "color": "Caoba", "precio": 15000, "imgUrl": "img/cama.png" },
+    { "id": 6, "nombre": "Cómoda", "color": "Nogal", "precio": 150000, "imgUrl": "img/comoda.png" },
+    { "id": 7, "nombre": "Ropero", "color": "Crudo", "precio": 55000, "imgUrl": "img/ropero.png" },
+    { "id": 8, "nombre": "Sommier", "color": "Rojo", "precio": 55000, "imgUrl": "img/Sommier.png" },
+    { "id": 9, "nombre": "Colchon", "color": "Blanco", "precio": 55000, "imgUrl": "img/colchon.png" }
+  ]

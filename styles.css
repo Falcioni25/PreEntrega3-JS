@@ -15,9 +15,7 @@
     height: 70vh;
     justify-content: space-around;
     padding-top: 15px;
-    background-image:url("./img/bge02.jpg.crdownload");
-    background-repeat: no-repeat;
-    background-image: cover;
+    background-image:url("https://media.istockphoto.com/id/1226478926/es/foto/fondo-verde-3d-render.jpg?b=1&s=170667a&w=0&k=20&c=mbWCfaeZvJpuohMJejHmyBiL05WkvOC3FMzDO_RCPmY=")
   }
   .flex{
   display: flex;
@@ -34,7 +32,7 @@
   .producto {
     background-color: aliceblue;
     width: 250px;
-    height: 240px;
+    height: 230px;
     border: 2px solid black;
     margin-bottom: 5px;
     margin-right: 5px;
@@ -48,14 +46,17 @@
     width: 100px;
     height: 100px;
   }
+  .producto img:hover{
+    transform: scale(2.5);
+  }
   button{
     border-radius: 5px;
-    background-color: tomato;
+    background-color: black;
     border: none;
     color: whitesmoke;
   }
   button:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
   }
   .carrito{
     display: flex;
@@ -75,7 +76,6 @@
   .carrito img{
     width: 90px;
     height: 50px;
-    background-color: transparent;
 
   }
   
@@ -83,6 +83,7 @@
     background-color: rgb(66, 81, 88);
     color: #c2c2c2;
     text-align: center;
-    height: 50px;
+    align-content: center;
+    height: 70px;
     
   }
